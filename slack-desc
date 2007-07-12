@@ -1,0 +1,11 @@
+xmlto: xmlto (A front-end to an XSL toolchain)
+xmlto:
+xmlto: xmlto is a front-end to an XSL toolchain. It chooses an appropriate
+xmlto: stylesheet for the conversion you want and applies it using an
+xmlto: external XSL-T processor. It also performs any necessary
+xmlto: post-processing.
+xmlto:
+xmlto:
+xmlto:
+xmlto: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
+xmlto:
